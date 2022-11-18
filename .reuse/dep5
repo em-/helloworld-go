@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: helloworld-go
+Upstream-Contact: Emanuele Aina <em@nerd.ocracy.org>
+Source: https://github.com/em-/helloworld-go
+
+Files: *
+Copyright: 2022 Emanuele Aina <em@nerd.ocracy.org>
+License: BSD-3-Clause
